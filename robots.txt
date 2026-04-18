@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://running-man-thailand-ep9.pages.dev/sitemap.xml
